@@ -1,6 +1,6 @@
 
 
-## 🛠 Who is this for?
+## Who is this for?
 
 - Developers integrating MyAstro API
 - Startups building astrology apps
@@ -11,7 +11,7 @@
 
 A compiled PDF version of this guide is available for easy reading and offline access.
 
-## 🌐 Official Documentation
+## Official Documentation
 
 For complete API reference, visit:
 
@@ -21,7 +21,3 @@ If you find this project helpful:
 - Star the repository
 - Share it with others
 - Contribute to improve it
-
----
-
-Together, let's build the best astrology API ecosystem 🌟
